@@ -49,7 +49,7 @@ I'm designing frameworks for symbolic and affective memory in AI systems — exp
 
 ## Technical
 
-**Languages:** Python, Julia, R, MATLAB, Mathematica  
+**Languages:** Python, Julia, Rust, C++, R, MATLAB, Mathematica  
 **AI/ML:** Local LLMs, RAG, Vector DBs, TensorFlow, Keras, Scikit-learn  
 **Systems:** Linux, VMware, OPNsense, Network Architecture, FERPA/NIST Compliance  
 **Scientific:** NumPy, Pandas, SciPy, CosmoMC, Cobaya, CAMB, Bayesian Methods
